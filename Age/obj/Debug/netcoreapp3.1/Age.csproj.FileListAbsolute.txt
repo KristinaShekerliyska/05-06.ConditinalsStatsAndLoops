@@ -1,0 +1,13 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Age\bin\Debug\netcoreapp3.1\Age.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Age\bin\Debug\netcoreapp3.1\Age.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Age\bin\Debug\netcoreapp3.1\Age.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Age\bin\Debug\netcoreapp3.1\Age.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Age\bin\Debug\netcoreapp3.1\Age.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Age\bin\Debug\netcoreapp3.1\Age.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Age\obj\Debug\netcoreapp3.1\Age.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Age\obj\Debug\netcoreapp3.1\Age.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Age\obj\Debug\netcoreapp3.1\Age.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Age\obj\Debug\netcoreapp3.1\Age.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Age\obj\Debug\netcoreapp3.1\Age.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Age\obj\Debug\netcoreapp3.1\Age.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Age\obj\Debug\netcoreapp3.1\Age.genruntimeconfig.cache

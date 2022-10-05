@@ -1,0 +1,13 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache

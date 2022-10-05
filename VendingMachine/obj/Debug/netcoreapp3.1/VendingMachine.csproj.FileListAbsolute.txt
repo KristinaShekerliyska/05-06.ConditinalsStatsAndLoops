@@ -1,0 +1,14 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.AssemblyReference.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache

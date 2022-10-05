@@ -1,0 +1,14 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\bin\Debug\netcoreapp3.1\Divison.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\bin\Debug\netcoreapp3.1\Divison.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\bin\Debug\netcoreapp3.1\Divison.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\bin\Debug\netcoreapp3.1\Divison.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\bin\Debug\netcoreapp3.1\Divison.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\bin\Debug\netcoreapp3.1\Divison.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\obj\Debug\netcoreapp3.1\Divison.csproj.AssemblyReference.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\obj\Debug\netcoreapp3.1\Divison.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\obj\Debug\netcoreapp3.1\Divison.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\obj\Debug\netcoreapp3.1\Divison.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\obj\Debug\netcoreapp3.1\Divison.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\obj\Debug\netcoreapp3.1\Divison.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\obj\Debug\netcoreapp3.1\Divison.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Divison\obj\Debug\netcoreapp3.1\Divison.genruntimeconfig.cache

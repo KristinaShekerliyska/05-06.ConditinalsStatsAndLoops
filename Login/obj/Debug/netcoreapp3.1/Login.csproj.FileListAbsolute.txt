@@ -1,0 +1,14 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\bin\Debug\netcoreapp3.1\Login.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\bin\Debug\netcoreapp3.1\Login.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\bin\Debug\netcoreapp3.1\Login.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\Login.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\Login.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\Login.csproj.AssemblyReference.cache

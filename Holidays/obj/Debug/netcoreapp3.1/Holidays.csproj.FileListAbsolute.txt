@@ -1,0 +1,13 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Holidays\bin\Debug\netcoreapp3.1\Holidays.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Holidays\bin\Debug\netcoreapp3.1\Holidays.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Holidays\bin\Debug\netcoreapp3.1\Holidays.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Holidays\bin\Debug\netcoreapp3.1\Holidays.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Holidays\bin\Debug\netcoreapp3.1\Holidays.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Holidays\bin\Debug\netcoreapp3.1\Holidays.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Holidays\obj\Debug\netcoreapp3.1\Holidays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Holidays\obj\Debug\netcoreapp3.1\Holidays.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Holidays\obj\Debug\netcoreapp3.1\Holidays.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Holidays\obj\Debug\netcoreapp3.1\Holidays.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Holidays\obj\Debug\netcoreapp3.1\Holidays.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Holidays\obj\Debug\netcoreapp3.1\Holidays.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Holidays\obj\Debug\netcoreapp3.1\Holidays.genruntimeconfig.cache

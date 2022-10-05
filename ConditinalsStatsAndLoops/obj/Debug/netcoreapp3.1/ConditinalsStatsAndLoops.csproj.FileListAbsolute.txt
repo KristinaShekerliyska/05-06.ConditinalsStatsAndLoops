@@ -1,0 +1,14 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\bin\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\bin\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\bin\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\bin\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\bin\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\bin\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\obj\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.csproj.AssemblyReference.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\obj\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\obj\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\obj\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\obj\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\obj\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\obj\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ConditinalsStatsAndLoops\obj\Debug\netcoreapp3.1\ConditinalsStatsAndLoops.genruntimeconfig.cache

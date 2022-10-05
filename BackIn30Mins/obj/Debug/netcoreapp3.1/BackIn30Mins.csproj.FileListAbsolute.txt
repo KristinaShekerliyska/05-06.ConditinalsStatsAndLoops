@@ -1,0 +1,13 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\BackIn30Mins\bin\Debug\netcoreapp3.1\BackIn30Mins.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\BackIn30Mins\bin\Debug\netcoreapp3.1\BackIn30Mins.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\BackIn30Mins\bin\Debug\netcoreapp3.1\BackIn30Mins.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\BackIn30Mins\bin\Debug\netcoreapp3.1\BackIn30Mins.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\BackIn30Mins\bin\Debug\netcoreapp3.1\BackIn30Mins.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\BackIn30Mins\bin\Debug\netcoreapp3.1\BackIn30Mins.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\BackIn30Mins\obj\Debug\netcoreapp3.1\BackIn30Mins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\BackIn30Mins\obj\Debug\netcoreapp3.1\BackIn30Mins.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\BackIn30Mins\obj\Debug\netcoreapp3.1\BackIn30Mins.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\BackIn30Mins\obj\Debug\netcoreapp3.1\BackIn30Mins.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\BackIn30Mins\obj\Debug\netcoreapp3.1\BackIn30Mins.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\BackIn30Mins\obj\Debug\netcoreapp3.1\BackIn30Mins.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\BackIn30Mins\obj\Debug\netcoreapp3.1\BackIn30Mins.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\bin\Debug\netcoreapp3.1\Orders.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\bin\Debug\netcoreapp3.1\Orders.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\bin\Debug\netcoreapp3.1\Orders.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\bin\Debug\netcoreapp3.1\Orders.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\bin\Debug\netcoreapp3.1\Orders.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.AssemblyReference.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\obj\Debug\netcoreapp3.1\Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\obj\Debug\netcoreapp3.1\Orders.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\obj\Debug\netcoreapp3.1\Orders.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\obj\Debug\netcoreapp3.1\Orders.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\obj\Debug\netcoreapp3.1\Orders.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Orders\obj\Debug\netcoreapp3.1\Orders.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\SumOfOddNums\bin\Debug\netcoreapp3.1\SumOfOddNums.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\SumOfOddNums\bin\Debug\netcoreapp3.1\SumOfOddNums.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\SumOfOddNums\bin\Debug\netcoreapp3.1\SumOfOddNums.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\SumOfOddNums\bin\Debug\netcoreapp3.1\SumOfOddNums.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\SumOfOddNums\bin\Debug\netcoreapp3.1\SumOfOddNums.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\SumOfOddNums\bin\Debug\netcoreapp3.1\SumOfOddNums.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\SumOfOddNums\obj\Debug\netcoreapp3.1\SumOfOddNums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\SumOfOddNums\obj\Debug\netcoreapp3.1\SumOfOddNums.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\SumOfOddNums\obj\Debug\netcoreapp3.1\SumOfOddNums.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\SumOfOddNums\obj\Debug\netcoreapp3.1\SumOfOddNums.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\SumOfOddNums\obj\Debug\netcoreapp3.1\SumOfOddNums.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\SumOfOddNums\obj\Debug\netcoreapp3.1\SumOfOddNums.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\SumOfOddNums\obj\Debug\netcoreapp3.1\SumOfOddNums.genruntimeconfig.cache

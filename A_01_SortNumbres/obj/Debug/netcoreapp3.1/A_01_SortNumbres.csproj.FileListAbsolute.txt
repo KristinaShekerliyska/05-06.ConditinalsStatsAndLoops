@@ -1,0 +1,14 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\bin\Debug\netcoreapp3.1\A_01_SortNumbres.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\bin\Debug\netcoreapp3.1\A_01_SortNumbres.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\bin\Debug\netcoreapp3.1\A_01_SortNumbres.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\bin\Debug\netcoreapp3.1\A_01_SortNumbres.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\bin\Debug\netcoreapp3.1\A_01_SortNumbres.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\bin\Debug\netcoreapp3.1\A_01_SortNumbres.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\obj\Debug\netcoreapp3.1\A_01_SortNumbres.csproj.AssemblyReference.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\obj\Debug\netcoreapp3.1\A_01_SortNumbres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\obj\Debug\netcoreapp3.1\A_01_SortNumbres.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\obj\Debug\netcoreapp3.1\A_01_SortNumbres.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\obj\Debug\netcoreapp3.1\A_01_SortNumbres.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\obj\Debug\netcoreapp3.1\A_01_SortNumbres.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\obj\Debug\netcoreapp3.1\A_01_SortNumbres.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\A_01_SortNumbres\obj\Debug\netcoreapp3.1\A_01_SortNumbres.genruntimeconfig.cache

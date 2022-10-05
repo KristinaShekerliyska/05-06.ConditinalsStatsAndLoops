@@ -1,0 +1,14 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\bin\Debug\netcoreapp3.1\DevisibleBy3.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\bin\Debug\netcoreapp3.1\DevisibleBy3.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\bin\Debug\netcoreapp3.1\DevisibleBy3.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\bin\Debug\netcoreapp3.1\DevisibleBy3.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\bin\Debug\netcoreapp3.1\DevisibleBy3.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\bin\Debug\netcoreapp3.1\DevisibleBy3.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\obj\Debug\netcoreapp3.1\DevisibleBy3.csproj.AssemblyReference.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\obj\Debug\netcoreapp3.1\DevisibleBy3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\obj\Debug\netcoreapp3.1\DevisibleBy3.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\obj\Debug\netcoreapp3.1\DevisibleBy3.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\obj\Debug\netcoreapp3.1\DevisibleBy3.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\obj\Debug\netcoreapp3.1\DevisibleBy3.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\obj\Debug\netcoreapp3.1\DevisibleBy3.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\DevisibleBy3\obj\Debug\netcoreapp3.1\DevisibleBy3.genruntimeconfig.cache

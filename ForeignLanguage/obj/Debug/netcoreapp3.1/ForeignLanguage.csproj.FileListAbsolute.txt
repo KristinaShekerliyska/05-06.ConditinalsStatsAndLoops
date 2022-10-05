@@ -1,0 +1,13 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ForeignLanguage\bin\Debug\netcoreapp3.1\ForeignLanguage.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ForeignLanguage\bin\Debug\netcoreapp3.1\ForeignLanguage.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ForeignLanguage\bin\Debug\netcoreapp3.1\ForeignLanguage.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ForeignLanguage\bin\Debug\netcoreapp3.1\ForeignLanguage.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ForeignLanguage\bin\Debug\netcoreapp3.1\ForeignLanguage.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ForeignLanguage\bin\Debug\netcoreapp3.1\ForeignLanguage.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ForeignLanguage\obj\Debug\netcoreapp3.1\ForeignLanguage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ForeignLanguage\obj\Debug\netcoreapp3.1\ForeignLanguage.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ForeignLanguage\obj\Debug\netcoreapp3.1\ForeignLanguage.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ForeignLanguage\obj\Debug\netcoreapp3.1\ForeignLanguage.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ForeignLanguage\obj\Debug\netcoreapp3.1\ForeignLanguage.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ForeignLanguage\obj\Debug\netcoreapp3.1\ForeignLanguage.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\ForeignLanguage\obj\Debug\netcoreapp3.1\ForeignLanguage.genruntimeconfig.cache

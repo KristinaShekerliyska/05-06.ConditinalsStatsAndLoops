@@ -1,0 +1,13 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.genruntimeconfig.cache

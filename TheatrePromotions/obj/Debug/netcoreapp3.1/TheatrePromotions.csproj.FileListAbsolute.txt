@@ -1,0 +1,13 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\TheatrePromotions\bin\Debug\netcoreapp3.1\TheatrePromotions.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\TheatrePromotions\bin\Debug\netcoreapp3.1\TheatrePromotions.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\TheatrePromotions\bin\Debug\netcoreapp3.1\TheatrePromotions.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\TheatrePromotions\bin\Debug\netcoreapp3.1\TheatrePromotions.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\TheatrePromotions\bin\Debug\netcoreapp3.1\TheatrePromotions.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\TheatrePromotions\bin\Debug\netcoreapp3.1\TheatrePromotions.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.genruntimeconfig.cache

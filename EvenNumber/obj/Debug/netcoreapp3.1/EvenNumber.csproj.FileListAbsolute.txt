@@ -1,0 +1,13 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\EvenNumber\bin\Debug\netcoreapp3.1\EvenNumber.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\EvenNumber\bin\Debug\netcoreapp3.1\EvenNumber.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\EvenNumber\bin\Debug\netcoreapp3.1\EvenNumber.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\EvenNumber\bin\Debug\netcoreapp3.1\EvenNumber.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\EvenNumber\bin\Debug\netcoreapp3.1\EvenNumber.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\EvenNumber\bin\Debug\netcoreapp3.1\EvenNumber.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.genruntimeconfig.cache

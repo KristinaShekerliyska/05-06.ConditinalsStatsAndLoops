@@ -1,0 +1,13 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\bin\Debug\netcoreapp3.1\E05.Login.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\bin\Debug\netcoreapp3.1\E05.Login.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\bin\Debug\netcoreapp3.1\E05.Login.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\bin\Debug\netcoreapp3.1\E05.Login.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\bin\Debug\netcoreapp3.1\E05.Login.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\bin\Debug\netcoreapp3.1\E05.Login.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\E05.Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\E05.Login.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\E05.Login.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\E05.Login.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\E05.Login.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\E05.Login.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Login\obj\Debug\netcoreapp3.1\E05.Login.genruntimeconfig.cache

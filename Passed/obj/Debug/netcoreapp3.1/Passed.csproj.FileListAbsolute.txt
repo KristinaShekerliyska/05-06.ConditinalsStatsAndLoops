@@ -1,0 +1,14 @@
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\bin\Debug\netcoreapp3.1\Passed.exe
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\bin\Debug\netcoreapp3.1\Passed.deps.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.dev.json
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\bin\Debug\netcoreapp3.1\Passed.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\bin\Debug\netcoreapp3.1\Passed.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\obj\Debug\netcoreapp3.1\Passed.csproj.AssemblyReference.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\obj\Debug\netcoreapp3.1\Passed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfoInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfo.cs
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\obj\Debug\netcoreapp3.1\Passed.csproj.CoreCompileInputs.cache
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\obj\Debug\netcoreapp3.1\Passed.dll
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\obj\Debug\netcoreapp3.1\Passed.pdb
+D:\Docs\Personal\SoftUni\2022\Fundamentals\ConditinalsStatsAndLoops\Passed\obj\Debug\netcoreapp3.1\Passed.genruntimeconfig.cache
